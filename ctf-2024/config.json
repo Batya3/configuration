@@ -1,0 +1,9 @@
+{
+  "ctf_name": "CTF 2024",
+  "teams": 10,
+  "max_flags_per_team": 100,
+  "admin_panel": {
+    "username": "admin",
+    "password": "supersecretpassword"
+  }
+}
